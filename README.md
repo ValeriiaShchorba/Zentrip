@@ -50,6 +50,7 @@ Zentrip, kullanıcı dostu arayüzü ile seyahatin her anında yanınızdadır.
 
 ### 1. Keşfetme Ekranı (Ana Sayfa)
 Kullanıcıların seyahat etmek istedikleri ülkeyi seçtikleri, sade ve şık başlangıç noktası.
+
 <img src="https://github.com/user-attachments/assets/5dea7987-710e-4b85-a29a-8c3fdec205ca" width="250">
 
 
