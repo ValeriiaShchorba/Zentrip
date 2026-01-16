@@ -94,5 +94,5 @@ Proje hakkında herhangi bir sorunuz veya öneriniz varsa lütfen benimle ileti�
 
 Projemizin detaylarını öğrenmek ve özelliklerini incelemek için YouTube videosunu izleyebilirsiniz:
 
-- **YouTube Proje Videosu:** [Proje Videosunu İzle]()
+- **YouTube Proje Videosu:** [Proje Videosunu İzle](https://youtu.be/ZEQ4zTGB19U)
 ---
