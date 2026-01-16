@@ -89,5 +89,10 @@ Proje hakkında herhangi bir sorunuz veya öneriniz varsa lütfen benimle ileti�
 * **Geliştirici:** Valeriia Shchorba
 * **E-posta:** valeriiashchorba@gmail.com
 
+---
+## 🎥 YouTube Proje Videosu
 
+Projemizin detaylarını öğrenmek ve özelliklerini incelemek için YouTube videosunu izleyebilirsiniz:
+
+- **YouTube Proje Videosu:** [Proje Videosunu İzle]()
 ---
