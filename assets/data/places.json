@@ -1,0 +1,702 @@
+[
+    {
+        "title": "Ayasofya",
+        "description": "İstanbul'un tarihi yarımadasında bulunan büyüleyici ibadethane ve müze.",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg",
+        "category": "Müzer",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Galata Kulesi",
+        "description": "Dünyanın en eski kuleleri arasında sayılan ve İstanbul’un sembollerinden biri...",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://www.kulturportali.gov.tr/contents/images/%c4%b0STANBUL-GALATA%20KULES%c4%b0-G%c3%9cLCAN%20ACAR%20(4).jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Sultan Ahmed Camii",
+        "description": "Eser, Sultan I. Ahmet tarafından dönemin başmimarı Sedefkar Mehmet Ağa'ya yaptırılmıştır...",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://www.kulturportali.gov.tr/contents/images/IMG_6526%20kopya.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Topkapı Sarayı",
+        "description": "Topkapı Sarayı Müzesi, 2019 yılında Milli Saraylar İdaresi Başkanlığı’na bağlanmıştır...",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxm42rIyevZNB2onp94jEUj119YYp67ATCTuXCnE5ZpS62qxBl3pA7IX6wUmjSCImxpq5pgE1vjPXge0K_RN1S90G8CO306eri6shyWd-1LcYVZNCBAa4pLsPZBbAVDLtvUXQqS=s680-w680-h510-rw",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Yerebatan Sarnıcı",
+        "description": "532 yılında İmparator Justinianus tarafından inşa ettirilen Yerebatan Sarnıcı...",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://www.kulturportali.gov.tr/contents/images/K%c3%9cLT%c3%9cR%20VE%20TUR%c4%b0ZM%20BAKANLI%c4%9eI%20AR%c5%9e%c4%b0V%c4%b0-0993-%c4%b0STANBUL-YEREBATAN%20SARNICI-%20STEVE%20MCCURRY%20-%2019_11_2013.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Efes Antik Kenti",
+        "description": "Antik Dönem'in en önemli merkezlerinden biri olan Efes, tarih öncesi dönemden başlayarak...",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "imageUrl": "https://www.kulturportali.gov.tr/contents/images/Efes%20%c3%96renyeri%20%20%20(7).jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "The Land of Legends",
+        "description": "Türkiye'nin en büyük tema parkı, su parkı ve alışveriş caddesi.",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a1/fd/24/caption.jpg?w=800&h=800&s=1",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Kapadokya Balon Turu",
+        "description": "Peri bacaları üzerinde gün doğarken yapılan unutulmaz balon gezisi.",
+        "city": "Nevşehir",
+        "country": "Türkiye",
+        "imageUrl": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd?q=80&w=1000",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "İstanbul Boğaz Turu",
+        "description": "Asya ve Avrupa kıtaları arasında tekneyle eşsiz bir gezi.",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=1000",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Hafız Mustafa 1864",
+        "description": "Osmanlı'dan günümüze geleneksel Türk tatlıları ve lokumları.",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1c/ad/43/35/hafiz-mustafa-1864-sirkeci.jpg",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Nusr-Et Steakhouse",
+        "description": "Dünya çapında ün kazanmış et restoranı ve 'Saltbae' deneyimi.",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Göbeklitepe",
+        "description": "Tarihin sıfır noktası olarak bilinen dünyanın en eski tapınağı.",
+        "city": "Şanlıurfa",
+        "country": "Türkiye",
+        "imageUrl": "https://www.sanliurfa.bel.tr/photos/1/5899b9f3cef28.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Pamukkale Travertenleri",
+        "description": "Beyaz kireçtaşı terasları ve termal sularıyla dünyaca ünlü doğa harikası.",
+        "city": "Denizli",
+        "country": "Türkiye",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/16/4c/17/merveilleux.jpg?w=900&h=500&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Ölüdeniz",
+        "description": "Turkuaz rengi ve durgun suyuyla dünyanın en güzel plajlarından biri.",
+        "city": "Fethiye",
+        "country": "Türkiye",
+        "imageUrl": "https://assets.enuygun.com/media/lib/570x400/uploads/image/oludeniz-35958.jpeg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Uzungöl",
+        "description": "Dağların arasında saklı, sisli manzarasıyla ünlü Karadeniz gölü.",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dSdf72aPN_53Sqc3MOJJ00e-DlGbmcmnvw&s",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Çiya Sofrası",
+        "description": "Kaybolmaya yüz tutmuş Anadolu yemeklerini sunan ödüllü restoran.",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4BuU_gBiDIAbfFpjXU9g-ryMgF5mGkAS4A&s",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Kolezyum",
+        "description": "Roma İmparatorluğu'nun en büyük amfitiyatrosu ve gladyatör arenası.",
+        "city": "Roma",
+        "country": "İtalya",
+        "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1996",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Vatikan Müzeleri",
+        "description": "Sistina Şapeli ve Michelangelo'nun eserlerini barındıran devasa müze.",
+        "city": "Vatikan",
+        "country": "İtalya",
+        "imageUrl": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?q=80&w=1000",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Como Gölü",
+        "description": "Alplerin eteğinde, lüks villalarla çevrili büyüleyici bir göl.",
+        "city": "Lombardiya",
+        "country": "İtalya",
+        "imageUrl": "https://gezimanya.com/sites/default/files/styles/800x600_/public/gezilecek-yerler/2021-08/bellagio.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Amalfi Kıyıları",
+        "description": "Dik yamaçlara kurulmuş renkli evleri ve turkuaz deniziyle ünlü sahil.",
+        "city": "Amalfi",
+        "country": "İtalya",
+        "imageUrl": "https://www.esentour.com/uploads/turResimleri/esentour-elegant-napoli-amalfi-kiyilari-turu-1-1864.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Toskana Vadileri",
+        "description": "Selvi ağaçları ve üzüm bağlarıyla kaplı ikonik İtalyan kırsalı.",
+        "city": "Toskana",
+        "country": "İtalya",
+        "imageUrl": "https://blogtimetogo.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-14-at-18.33.09-1.jpeg?w=1024",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Gardaland",
+        "description": "İtalya'nın en büyük ve en popüler eğlence parkı.",
+        "city": "Verona",
+        "country": "İtalya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4b/ab/0c/gardaland-park-castelnuovo.jpg?w=900&h=500&s=1",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "La Scala Operası",
+        "description": "Dünyanın en prestijli opera ve bale gösterilerinin yapıldığı sahne.",
+        "city": "Milano",
+        "country": "İtalya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8d/47/bb/teatro-alla-scala.jpg?w=1200&h=-1&s=1",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "L'Antica Pizzeria",
+        "description": "Dünyanın en iyi pizzacısı olarak bilinen tarihi Napoli pizzacısı.",
+        "city": "Napoli",
+        "country": "İtalya",
+        "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Caffè Florian",
+        "description": "Venedik San Marco Meydanı'nda bulunan, dünyanın en eski kafesi.",
+        "city": "Venedik",
+        "country": "İtalya",
+        "imageUrl": "https://imagesofvenice.com/wp-content/uploads/2023/08/ven_caffe-florian-feature-1_blog.jpg",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Giolitti Roma",
+        "description": "Roma'nın en eski ve en meşhur dondurmacısı (Gelato).",
+        "city": "Roma",
+        "country": "İtalya",
+        "imageUrl": "https://images.unsplash.com/photo-1557142046-c704a3adf364?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Uffizi Galerisi",
+        "description": "Rönesans döneminin en önemli sanat eserlerinin sergilendiği müze.",
+        "city": "Floransa",
+        "country": "İtalya",
+        "imageUrl": "https://www.interbustur.com/wp-content/uploads/2018/04/uffizi-m%C3%BCzesi.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Venedik Kanalları",
+        "description": "Gondol keyfi yapılan, sular üzerine kurulu aşk şehri.",
+        "city": "Venedik",
+        "country": "İtalya",
+        "imageUrl": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?q=80&w=2070",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Eyfel Kulesi",
+        "description": "Paris'in sembolü olan demir kule.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://bayaiyi.com/wp-content/uploads/2020/04/eyfel-kulesi-bayaiyi.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Moulin Rouge",
+        "description": "Dünyaca ünlü Fransız kabare gösterilerinin ve Can-Can dansının doğum yeri.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/61/e5/08/night-time-the-rouge.jpg?w=900&h=500&s=1",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Parc Astérix",
+        "description": "Asteriks ve Oburiks temalı, roller coaster'larla dolu dev eğlence parkı.",
+        "city": "Plailly",
+        "country": "Fransa",
+        "imageUrl": "https://www.franceguide.info/wp-content/uploads/sites/18/paris-parc-asterix-hd.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Ladurée Champs-Elysées",
+        "description": "Dünyanın en meşhur makaronlarını yiyebileceğiniz tarihi lüks pastane.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Café de Flore",
+        "description": "Picasso ve Hemingway gibi sanatçıların uğrak yeri olan ikonik kafe.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Le Jules Verne",
+        "description": "Eyfel Kulesi'nin tepesinde, Paris manzaralı Michelin yıldızlı restoran.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Musée d'Orsay",
+        "description": "Eski bir tren garından dönüştürülen, Empresyonist sanatın merkezi.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://images.unsplash.com/photo-1580137197581-df2bb346a786?q=80&w=1000",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Versay Sarayı",
+        "description": "Fransız krallığının ihtişamını gösteren devasa saray ve bahçeler.",
+        "city": "Versay",
+        "country": "Fransa",
+        "imageUrl": "https://www.muzebiletleri.com/wp-content/uploads/2019/12/Versay-Saray%C4%B1-3.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Mont Saint-Michel",
+        "description": "Denizin ortasında bir adaya kurulmuş büyüleyici bir ortaçağ manastırı.",
+        "city": "Normandiya",
+        "country": "Fransa",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f9/aa/mont-saint-michel.jpg?w=1400&h=1400&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Etretat Falezleri",
+        "description": "Doğal kemerleri ve beyaz tebeşir kayalıklarıyla ünlü, nefes kesici bir doğa harikası.",
+        "city": "Normandiya",
+        "country": "Fransa",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/07/28/20/39/landscape-404072_1280.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Lüksemburg Bahçesi",
+        "description": "Paris’te bulunan Lüksemburg Bahçesi, 25 hektarlık bir alan üzerinde kurulu. Lüksemburg Sarayı’nı da içine alan bahçe, kestane ağaçlarıyla çevrili ve ortasında sekizgen biçiminde bir göl bulunuyor. Geziniz esnasında iyi bir mola olabilir. Pompidou Merkezi ",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://www.mngturizm.com/upload/blog/fransa-blog/luksemburg-bahcesi.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Zafer Takı ",
+        "description": "Fransa’nın simgelerinden birisi olan Zafer Takı, Şanzelize Caddesi’nin batısında yer alıyor. Yüksekliği 49 metre olan tak, Fransa denilince akla ilk gelen kültleşmiş simgelerden birisi. Napolyon Nonapart’ın isteği üzerine inşa edilen yapı, uzun bir caddenin başlangıcında bulunur ve içerisinde savaşta kaybedilen askerler için bir anıt mezar vardır. ",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://www.mngturizm.com/upload/blog/fransa-blog/zafer-taki.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Disneyland Paris ",
+        "description": "Fransa gezilecek yerler denildiğinde akla ilk gelen yerlerden biri Disneyland Paris’tir. İki bin hektar alana inşa edilen Dineyland Paris, ziyaretçilerine birbirinden farklı eğlence imkanı sunuyor. ",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://www.mngturizm.com/upload/blog/fransa-blog/disneyland-paris.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Şanzelize Caddesi",
+        "description": "Paris’te bulunan Şanzelize Caddesi, Fransa ziyaretiniz sırasında uğramanız gereken noktalardan birisi. Cadde üzerinde dünyaca ünlü markaların yanı sıra pek çok hediyelik eşya dükkanı yer alıyor. ",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://www.mngturizm.com/upload/blog/fransa-blog/sanzelise-caddesii.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Louvre Müzesi",
+        "description": "Mona Lisa tablosuna ev sahipliği yapan dünyanın en büyük sanat müzesi.",
+        "city": "Paris",
+        "country": "Fransa",
+        "imageUrl": "https://image.hurimg.com/i/hurriyet/90/1110x740/5f5895ff18c7732ff0b547a3.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Senso-ji Tapınağı",
+        "description": "Tokyo'nun en eski ve en renkli Budist tapınağı.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3d/a5/07/caption.jpg?w=900&h=500&s=1",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Ueno Parkı ",
+        "description": "Tokyo'nun Taito semtinde yer alan Ueno Parkı, şehrin en büyük ve en popüler parkı. 1873 yılında halka açılan bu park, Japonya'nın batı tarzı ilk halk parklarından biri olmasıyla ünlü.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/07/a6/f6/ciliegi-in-fiore.jpg?w=900&h=500&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Fuji Dağı",
+        "description": "Japonya'nın en yüksek ve en ikonik dağı olan Fuji Dağı, hem yerel halk hem de turistler arasında çok ilgi gören bir turistik merkez. 3.776 metre yüksekliğindeki bu muhteşem volkan, Tokyo'nun yaklaşık 100 kilometre güneybatısında yer alıyor ve net bir havada başkentten bile görülebiliyor.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://image.milimaj.com/i/milliyet/75/0x0/5f6fb79a55428408b83ad577.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Itsukushima Adası",
+        "description": "Tokyo'nun en eski ve en renkli Budist tapınağı.",
+        "city": "Hiroşima",
+        "country": "Japonya",
+        "imageUrl": "https://st4.depositphotos.com/1035350/41231/i/950/depositphotos_412313082-stock-photo-itsukushima-shrine-otorii-gate-water.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Tokyo Disneyland",
+        "description": "Asya'nın en popüler Disney parkı ve sihirli dünyası.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/05/fa/7c/tokyodisneyland.jpg?w=1200&h=1200&s=1",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Universal Studios Japan",
+        "description": "Harry Potter ve Super Nintendo dünyalarına ev sahipliği yapan park.",
+        "city": "Osaka",
+        "country": "Japonya",
+        "imageUrl": "https://www.travelcaffeine.com/wp-content/uploads/2022/09/night-super-nintendo-world-mario-land-universal-studios-bricker-1245.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Akihabara",
+        "description": "Anime, manga ve elektronik tutkunları için neon ışıklı cennet.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://cdn.gezelim.com/2022/02/1-28.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Sushi Dai",
+        "description": "Tsukiji Balık Pazarı'nda dünyanın en taze sushilerini sunan mekan.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Ichiran Ramen",
+        "description": "Kişiye özel kabinlerde servis edilen meşhur Tonkotsu Ramen.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Kobe Beef Steakhouse",
+        "description": "Dünyanın en lezzetli ve pahalı eti olan Kobe sığırını deneyimleyin.",
+        "city": "Kobe",
+        "country": "Japonya",
+        "imageUrl": "https://images.unsplash.com/photo-1615937722923-67f6deaf2cc9?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "TeamLab Borderless",
+        "description": "Sınırları olmayan, interaktif ve büyüleyici dijital sanat müzesi.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/y6tw9fidswhtdmcfsbfg.jpg",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Hiroşima Barış Anıtı",
+        "description": "Atom bombası trajedisini ve barışın önemini anlatan etkileyici alan.",
+        "city": "Hiroşima",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/9b/31/5b/scioccati-ma-anche-piu.jpg?w=1200&h=-1&s=1",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Senso-ji Tapınağı",
+        "description": "Tokyo'nun en eski ve en renkli Budist tapınağı.",
+        "city": "Tokyo",
+        "country": "Japonya",
+        "imageUrl": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?q=80&w=1000",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Arashiyama Bambu Ormanı",
+        "description": "Gökyüzüne uzanan bambu ağaçları arasında yürüyüş yolu.",
+        "city": "Kyoto",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/86/63/9a/e-uno-dei-luoghi-che.jpg?w=900&h=500&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Nara Parkı",
+        "description": "İnsanlarla iç içe yaşayan binlerce özgür geyiğin bulunduğu park.",
+        "city": "Nara",
+        "country": "Japonya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/35/6d/56/photo0jpg.jpg?w=900&h=500&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Ibiza Gece Hayatı",
+        "description": "Dünyanın en ünlü DJ'lerinin sahne aldığı efsanevi parti adası.",
+        "city": "Ibiza",
+        "country": "İspanya",
+        "imageUrl": "https://www.azgezen.com/wp-content/uploads/2020/01/ibiza-gece-hayati-azgezen-7.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Flamenko Gösterisi",
+        "description": "Endülüs kültürünün tutkulu dansı ve müziği.",
+        "city": "Sevilla",
+        "country": "İspanya",
+        "imageUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?q=80&w=1000",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Camp Nou",
+        "description": "FC Barcelona'nın efsanevi stadyumunda maç veya tur deneyimi.",
+        "city": "Barselona",
+        "country": "İspanya",
+        "imageUrl": "https://ticketshop.barcelona/images/tickets_camp_nou.jpg",
+        "category": "Eğlence",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Mercado de San Miguel",
+        "description": "Çeşit çeşit Tapas deneyebileceğiniz tarihi ve canlı bir pazar yeri.",
+        "city": "Madrid",
+        "country": "İspanya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d6/a7/35/photo6jpg.jpg?w=900&h=500&s=1",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Churrería San Ginés",
+        "description": "1894'ten beri en iyi Churros ve sıcak çikolatayı sunan mekan.",
+        "city": "Madrid",
+        "country": "İspanya",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-p/0b/a8/d2/0f/chocolateria-san-gines.jpg",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Paella Valenciana",
+        "description": "İspanya'nın milli yemeği Paella'yı yerinde, Valensiya'da yiyin.",
+        "city": "Valensiya",
+        "country": "İspanya",
+        "imageUrl": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?q=80&w=1000",
+        "category": "Yemek",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "La Sagrada Familia",
+        "description": "Gaudi'nin bitmeyen şaheseri ve Barselona'nın simgesi bazilika.",
+        "city": "Barselona",
+        "country": "İspanya",
+        "imageUrl": "https://images.unsplash.com/photo-1558642084-fd07fae5282e?q=80&w=1000",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Prado Müzesi",
+        "description": "Goya ve Velázquez gibi ustaların eserlerinin bulunduğu dev sanat müzesi.",
+        "city": "Madrid",
+        "country": "İspanya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/00/3d/04/caption.jpg?w=800&h=800&s=1",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Elhamra Sarayı",
+        "description": "İslam mimarisinin zirvesi olan büyüleyici saray kompleksi.",
+        "city": "Granada",
+        "country": "İspanya",
+        "imageUrl": "https://www.avruparuyasi.com.tr/uploads/eski/10000_elhamra-sarayi.png",
+        "category": "Müze",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Park Güell",
+        "description": "Gaudi'nin tasarladığı renkli mozaikler ve masalsı yapılarla dolu park.",
+        "city": "Barselona",
+        "country": "İspanya",
+        "imageUrl": "https://images.unsplash.com/photo-1523531294919-4bcd7c65e216?q=80&w=1000",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Retiro Parkı",
+        "description": "Madrid'in akciğeri olan, göleti ve kristal sarayıyla ünlü dev park.",
+        "city": "Madrid",
+        "country": "İspanya",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/53/53/2c/img-20160729-205021-largejpg.jpg?w=900&h=500&s=1",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    },
+    {
+        "title": "Costa Brava",
+        "description": "Vahşi kayalıklar ve gizli koylarla dolu muhteşem Akdeniz sahili.",
+        "city": "Girona",
+        "country": "İspanya",
+        "imageUrl": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/cataluna/palafrugell-girona-s144973225.jpg",
+        "category": "Doğa",
+        "isFavorite": 0,
+        "isVisited": 0
+    }
+]
